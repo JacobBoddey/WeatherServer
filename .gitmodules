@@ -1,0 +1,12 @@
+[submodule "user-client"]
+	path = user-client
+	url = https://olympuss.ntu.ac.uk/systems-software/user-client.git
+[submodule "weather-server"]
+	path = weather-server
+	url = https://olympuss.ntu.ac.uk/systems-software/weather-server.git
+[submodule "weather-station-client"]
+	path = weather-station-client
+	url = https://olympuss.ntu.ac.uk/systems-software/weather-station-client.git
+[submodule "weather-utils"]
+	path = weather-utils
+	url = https://olympuss.ntu.ac.uk/systems-software/weather-utils.git
